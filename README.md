@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Revert 
 
 리버트 테스트
+중입니다
+삭제되어야할 부분
 
 ## Available Scripts
 
