@@ -5,12 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Revert 
 
 리버트 테스트
-<<<<<<< HEAD
-테스트중
-삭제
-=======
-REVERT
->>>>>>> revert
+
 
 ## Available Scripts
 
