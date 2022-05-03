@@ -2,12 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Revert 
-
-리버트 테스트
-FINAL
-
-
 ## Available Scripts
 
 In the project directory, you can run:
