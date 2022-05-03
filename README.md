@@ -5,11 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Revert 
 
 리버트 테스트
-<<<<<<< HEAD
 테스트중
 삭제
-=======
->>>>>>> parent of a5af3c3 (Branch Test 4)
 
 ## Available Scripts
 
